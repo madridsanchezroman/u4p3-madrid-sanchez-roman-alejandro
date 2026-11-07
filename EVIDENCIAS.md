@@ -24,3 +24,5 @@ Render: https://u4p3-madrid-sanchez-roman-alejandro.onrender.com
 | 13 | Paso 14: EXPLAIN de la consulta 3, columna key     | 01:31:51 | evidencias/14-explain.png        |
 | 14 | Paso 15: Render en vivo, /reportes/ y CSV          | 01:49:16 | evidencias/15-render.png         |
 | 15 | Despedida con resumen                              | 01:50:43 | —                                |
+
+<!-- Tiempos revisados en el video completo de la práctica u4p3 -->
